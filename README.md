@@ -7,6 +7,9 @@ This project aims to implement face recognition using machine learning technique
 - **DeepFace**: A deep learning framework for face recognition, built on top of TensorFlow and Keras.
 - **OS**: Used for file management and directory operations.
 
+## Dataset 
+- **Kaggle dataset**: Link to dataset -> https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset
+
 ## Requirements
 - Python (latest version)
 - OpenCV (`pip install opencv-python`)
